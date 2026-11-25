@@ -1,6 +1,6 @@
 # Enterprise Intellectual Property Governance & Compliance Assessment
 
-**Status:** In progress | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
+**Status:** Scenario assessment complete; implementation and assurance deliverables in progress | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
 
 ## Executive summary
 An employee adapts and installs proprietary customer-service software from a former employer without authorization. Management proposes wider deployment and rejects negotiating with the original owner. This project evaluates copyright, software licensing, insider risk, governance accountability, and operational exposure, then designs a risk-based remediation and assurance program.
@@ -70,7 +70,17 @@ Suspend unauthorized use and expansion in coordination with legal and IT, preser
 Zero unauthorized installations, overdue critical remediation items and unapproved exceptions; 100% licensing compliance, inventory coverage, offboarding completion, IP training completion and critical control testing pass rate. These are targets, not measured results.
 
 ## Portfolio workstreams
-All deliverables below are planned unless explicitly marked complete. This README is the initial project outline.
+The scenario assessment and initial control designs are documented below. Full standalone workbooks, policies, testing and executive dashboard remain planned.
+
+### Assessment documents
+- [Stakeholder and accountability assessment](01-project-governance/stakeholder-accountability.md)
+- [Incident assessment and evidence gaps](02-incident-investigation/case-assessment.md)
+- [Risk treatment decision](03-risk-management/risk-treatment-decision.md)
+- [Legal and ethical analysis](04-compliance/legal-and-ethical-analysis.md)
+- [Preventive governance and control design](05-policies-and-controls/preventive-governance.md)
+- [Corrective action plan](06-remediation/action-plan.md)
+
+### Remaining deliverables
 
 | Workstream | Planned deliverables |
 |---|---|
