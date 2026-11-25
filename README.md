@@ -70,7 +70,7 @@ Suspend unauthorized use and expansion in coordination with legal and IT, preser
 Zero unauthorized installations, overdue critical remediation items and unapproved exceptions; 100% licensing compliance, inventory coverage, offboarding completion, IP training completion and critical control testing pass rate. These are targets, not measured results.
 
 ## Portfolio workstreams
-The scenario assessment and initial control designs are documented below. Full standalone workbooks, policies, testing and executive dashboard remain planned.
+The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. Full standalone workbooks, testing and executive dashboard remain planned.
 
 ### Assessment documents
 - [Stakeholder and accountability assessment](01-project-governance/stakeholder-accountability.md)
@@ -80,6 +80,9 @@ The scenario assessment and initial control designs are documented below. Full s
 - [Preventive governance and control design](05-policies-and-controls/preventive-governance.md)
 - [Corrective action plan](06-remediation/action-plan.md)
 
+### Governance policy suite
+[Master policy register and ten proposed policies](05-policies-and-controls/policy-register.md). Drafting complete; approval, adoption, framework validation and testing remain pending.
+
 ### Remaining deliverables
 
 | Workstream | Planned deliverables |
@@ -88,7 +91,7 @@ The scenario assessment and initial control designs are documented below. Full s
 | 02 Incident investigation | Incident report, timeline, root cause analysis, evidence register |
 | 03 Risk management | Methodology, enterprise risk register, heat map |
 | 04 Compliance | Legal obligations, framework mapping, control gap assessment |
-| 05 Policies and controls | IP protection, licensing, acceptable use, secure development, offboarding, insider risk, ethics and non-retaliation, exceptions, incident response playbook |
+| 05 Policies and controls | Ten proposed policy drafts published; detailed incident response playbook and assurance pending |
 | 06 Remediation | POA&M, roadmap, tracker |
 | 07 Audit and assurance | Control testing workbook, audit assessment |
 | 08 Executive reporting | Dashboard, executive summary, briefing |
