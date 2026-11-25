@@ -2,7 +2,7 @@
 
 **Portfolio author:** Cierra Jennings
 
-**Status:** Scenario assessment, Phase 2 workbook, and Phase 3 simulated audit complete; lab testing and remediation validation pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
+**Status:** Scenario assessment, integrated GRC workbook, simulated audit, and executive reporting complete; lab testing and remediation validation pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
 
 ## Executive summary
 An employee adapts and installs proprietary customer-service software from a former employer without authorization. Management proposes wider deployment and rejects negotiating with the original owner. This project evaluates copyright, software licensing, insider risk, governance accountability, and operational exposure, then designs a risk-based remediation and assurance program.
@@ -72,7 +72,7 @@ Suspend unauthorized use and expansion in coordination with legal and IT, preser
 Zero unauthorized installations, overdue critical remediation items and unapproved exceptions; 100% licensing compliance, inventory coverage, offboarding completion, IP training completion and critical control testing pass rate. These are targets, not measured results.
 
 ## Portfolio workstreams
-The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. The integrated Phase 2 workbook is published below. The Phase 3 simulated audit is published below. Authorized lab testing and the standalone executive dashboard remain planned.
+The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. The integrated Phase 2 workbook is published below. The Phase 3 simulated audit is published below. The Phase 4 dashboard and briefing are published below. Authorized lab testing remains planned.
 
 ### Assessment documents
 - [Stakeholder and accountability assessment](01-project-governance/stakeholder-accountability.md)
@@ -98,6 +98,13 @@ Inherent ratings and schedules are illustrative. Residual ratings await evidence
 
 The exercise evaluated 14 synthetic records across seven proposed controls and documented five illustrative findings. Organizational evidence collection, authorized lab testing and remediation validation remain pending.
 
+### Phase 4 · Executive reporting
+
+- [Executive dashboard](08-executive-reporting/cierra-jennings-phase-4-executive-dashboard.xlsx)
+- [Executive briefing](08-executive-reporting/cierra-jennings-phase-4-executive-briefing.pptx)
+
+The dashboard is a point-in-time snapshot of the Phase 2 risk assessment and Phase 3 exercise. The briefing presents the containment, licensing or replacement, and independent oversight decisions proposed for leadership. Organizational control effectiveness and residual risk await evidence.
+
 ### Remaining deliverables
 
 | Workstream | Planned deliverables |
@@ -109,7 +116,7 @@ The exercise evaluated 14 synthetic records across seven proposed controls and d
 | 05 Policies and controls | Ten proposed policy drafts published; detailed incident response playbook and assurance pending |
 | 06 Remediation | Implementation, acceptance evidence, and closure |
 | 07 Audit and assurance | Authorized lab testing, evidence collection, and independent remediation validation |
-| 08 Executive reporting | Dashboard, executive summary, briefing |
+| 08 Executive reporting | Refresh the dashboard and briefing after evidence-backed reassessment |
 | 09 Project closure | Lessons learned |
 
 ## Professional competencies
