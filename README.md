@@ -2,7 +2,7 @@
 
 **Portfolio author:** Cierra Jennings
 
-**Status:** Scenario assessment, integrated GRC workbook, simulated audit, and executive reporting complete; lab testing and remediation validation pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
+**Status:** Five-phase educational portfolio complete; organizational implementation, lab testing, and remediation validation pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
 
 ## Executive summary
 An employee adapts and installs proprietary customer-service software from a former employer without authorization. Management proposes wider deployment and rejects negotiating with the original owner. This project evaluates copyright, software licensing, insider risk, governance accountability, and operational exposure, then designs a risk-based remediation and assurance program.
@@ -105,7 +105,11 @@ The exercise evaluated 14 synthetic records across seven proposed controls and d
 
 The dashboard is a point-in-time snapshot of the Phase 2 risk assessment and Phase 3 exercise. The briefing presents the containment, licensing or replacement, and independent oversight decisions proposed for leadership. Organizational control effectiveness and residual risk await evidence.
 
-### Remaining deliverables
+### Phase 5 · Project closeout and handoff
+
+[Project closeout and handoff](09-project-closure/cierra-jennings-phase-5-project-closeout.md) records portfolio acceptance status, lessons learned, the seven open remediation actions, proposed monitoring, and the evidence required for an independent operational closure decision.
+
+### Remaining scenario work and optional portfolio extensions
 
 | Workstream | Planned deliverables |
 |---|---|
@@ -117,7 +121,7 @@ The dashboard is a point-in-time snapshot of the Phase 2 risk assessment and Pha
 | 06 Remediation | Implementation, acceptance evidence, and closure |
 | 07 Audit and assurance | Authorized lab testing, evidence collection, and independent remediation validation |
 | 08 Executive reporting | Refresh the dashboard and briefing after evidence-backed reassessment |
-| 09 Project closure | Lessons learned |
+| 09 Project closure | Evidence-backed risk disposition and independent operational closure approval |
 
 ## Professional competencies
 GRC analysis, enterprise risk assessment, compliance mapping, control design and testing, incident governance, cross-functional accountability, remediation planning and executive reporting.
