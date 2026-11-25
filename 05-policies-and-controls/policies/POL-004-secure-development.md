@@ -1,4 +1,4 @@
-# Sage Assurance | Secure Software Development Policy
+# Cierra Jennings | Secure Software Development Policy
 
 Document ID: POL-004 | Version: 1.0 | Status: Proposed simulation draft | Owner: Engineering | Approval: Pending independent executive approval | Review: Annual and after material change
 

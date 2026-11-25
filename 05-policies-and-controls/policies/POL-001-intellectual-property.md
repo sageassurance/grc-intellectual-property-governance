@@ -1,4 +1,4 @@
-# Sage Assurance | Intellectual Property Protection Policy
+# Cierra Jennings | Intellectual Property Protection Policy
 
 Document ID: POL-001 | Version: 1.0 | Status: Proposed simulation draft | Owner: Legal | Approval: Pending independent executive approval | Review: Annual and after material change
 

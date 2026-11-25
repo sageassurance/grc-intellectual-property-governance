@@ -1,4 +1,4 @@
-# Sage Assurance | Software Acquisition and Licensing Policy
+# Cierra Jennings | Software Acquisition and Licensing Policy
 
 Document ID: POL-002 | Version: 1.0 | Status: Proposed simulation draft | Owner: IT Asset Management | Approval: Pending independent executive approval | Review: Annual and after material change
 

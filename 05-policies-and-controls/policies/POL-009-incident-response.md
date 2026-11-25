@@ -1,4 +1,4 @@
-# Sage Assurance | Information Security Incident Response Policy
+# Cierra Jennings | Information Security Incident Response Policy
 
 Document ID: POL-009 | Version: 1.0 | Status: Proposed simulation draft | Owner: Security Incident Response | Approval: Pending independent executive approval | Review: Annual and after material change
 

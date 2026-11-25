@@ -1,4 +1,4 @@
-# Sage Assurance | Master policy register
+# Cierra Jennings | Master policy register
 
 All policies are proposed v1.0; approval and effective dates pending. Annual and event-driven review.
 

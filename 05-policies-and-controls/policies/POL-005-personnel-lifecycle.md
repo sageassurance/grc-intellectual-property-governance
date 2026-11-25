@@ -1,4 +1,4 @@
-# Sage Assurance | Employee Onboarding and Offboarding Policy
+# Cierra Jennings | Employee Onboarding and Offboarding Policy
 
 Document ID: POL-005 | Version: 1.0 | Status: Proposed simulation draft | Owner: HR | Approval: Pending independent executive approval | Review: Annual and after material change
 

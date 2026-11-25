@@ -1,4 +1,4 @@
-# Sage Assurance | Ethics, Whistleblower and Non-Retaliation Policy
+# Cierra Jennings | Ethics, Whistleblower and Non-Retaliation Policy
 
 Document ID: POL-007 | Version: 1.0 | Status: Proposed simulation draft | Owner: Independent Oversight / HR | Approval: Pending independent executive approval | Review: Annual and after material change
 

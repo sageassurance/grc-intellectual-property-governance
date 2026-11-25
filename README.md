@@ -1,6 +1,8 @@
 # Enterprise Intellectual Property Governance & Compliance Assessment
 
-**Status:** Scenario assessment complete; implementation and assurance deliverables in progress | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
+**Portfolio author:** Cierra Jennings
+
+**Status:** Scenario assessment and Phase 2 workbook complete; implementation and assurance pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
 
 ## Executive summary
 An employee adapts and installs proprietary customer-service software from a former employer without authorization. Management proposes wider deployment and rejects negotiating with the original owner. This project evaluates copyright, software licensing, insider risk, governance accountability, and operational exposure, then designs a risk-based remediation and assurance program.
@@ -70,7 +72,7 @@ Suspend unauthorized use and expansion in coordination with legal and IT, preser
 Zero unauthorized installations, overdue critical remediation items and unapproved exceptions; 100% licensing compliance, inventory coverage, offboarding completion, IP training completion and critical control testing pass rate. These are targets, not measured results.
 
 ## Portfolio workstreams
-The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. Full standalone workbooks, testing and executive dashboard remain planned.
+The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. The integrated Phase 2 workbook is published below. Control testing and the standalone executive dashboard remain planned.
 
 ### Assessment documents
 - [Stakeholder and accountability assessment](01-project-governance/stakeholder-accountability.md)
@@ -83,16 +85,22 @@ The scenario assessment and initial control designs are documented below. Ten pr
 ### Governance policy suite
 [Master policy register and ten proposed policies](05-policies-and-controls/policy-register.md). Drafting complete; approval, adoption, framework validation and testing remain pending.
 
+### Phase 2 · Enterprise GRC management workbook
+
+[Download the integrated Excel workbook](03-risk-management/cierra-jennings-enterprise-grc-workbook.xlsx). Its 14 worksheets cover executive reporting, risk scoring and heat maps, obligations, controls, framework mappings, gaps, remediation, policies, evidence, exceptions, performance indicators, and audit follow-up. Open **Risk Methodology** to set the simulated reporting date and trace inputs to their source documents.
+
+Inherent ratings and schedules are illustrative. Residual ratings await evidence-backed review. Control implementation, operating effectiveness, and framework mappings remain unverified. The audit findings register contains scenario observations and test hypotheses for Phase 3.
+
 ### Remaining deliverables
 
 | Workstream | Planned deliverables |
 |---|---|
 | 01 Project governance | Charter, stakeholder register, RACI |
-| 02 Incident investigation | Incident report, timeline, root cause analysis, evidence register |
-| 03 Risk management | Methodology, enterprise risk register, heat map |
-| 04 Compliance | Legal obligations, framework mapping, control gap assessment |
+| 02 Incident investigation | Incident report and timeline; collect and verify requested evidence |
+| 03 Risk management | Evidence-backed residual risk assessment |
+| 04 Compliance | Confirm applicability, validate framework alignment, and assess gaps through testing |
 | 05 Policies and controls | Ten proposed policy drafts published; detailed incident response playbook and assurance pending |
-| 06 Remediation | POA&M, roadmap, tracker |
+| 06 Remediation | Implementation, acceptance evidence, and closure |
 | 07 Audit and assurance | Control testing workbook, audit assessment |
 | 08 Executive reporting | Dashboard, executive summary, briefing |
 | 09 Project closure | Lessons learned |

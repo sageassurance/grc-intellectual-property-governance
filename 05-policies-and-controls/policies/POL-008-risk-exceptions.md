@@ -1,4 +1,4 @@
-# Sage Assurance | Risk Acceptance and Exception Management Policy
+# Cierra Jennings | Risk Acceptance and Exception Management Policy
 
 Document ID: POL-008 | Version: 1.0 | Status: Proposed simulation draft | Owner: Enterprise Risk | Approval: Pending independent executive approval | Review: Annual and after material change
 

@@ -1,4 +1,4 @@
-# Sage Assurance | Acceptable Use Policy
+# Cierra Jennings | Acceptable Use Policy
 
 Document ID: POL-003 | Version: 1.0 | Status: Proposed simulation draft | Owner: Information Security | Approval: Pending independent executive approval | Review: Annual and after material change
 

@@ -1,4 +1,4 @@
-# Sage Assurance | Enterprise Risk Management Policy
+# Cierra Jennings | Enterprise Risk Management Policy
 
 Document ID: POL-010 | Version: 1.0 | Status: Proposed simulation draft | Owner: Enterprise Risk | Approval: Pending independent executive approval | Review: Annual and after material change
 

@@ -1,4 +1,4 @@
-# Sage Assurance | Insider Risk Management Policy
+# Cierra Jennings | Insider Risk Management Policy
 
 Document ID: POL-006 | Version: 1.0 | Status: Proposed simulation draft | Owner: Security | Approval: Pending independent executive approval | Review: Annual and after material change
 
