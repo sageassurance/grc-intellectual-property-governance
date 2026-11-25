@@ -2,7 +2,7 @@
 
 **Portfolio author:** Cierra Jennings
 
-**Status:** Scenario assessment and Phase 2 workbook complete; implementation and assurance pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
+**Status:** Scenario assessment, Phase 2 workbook, and Phase 3 simulated audit complete; lab testing and remediation validation pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
 
 ## Executive summary
 An employee adapts and installs proprietary customer-service software from a former employer without authorization. Management proposes wider deployment and rejects negotiating with the original owner. This project evaluates copyright, software licensing, insider risk, governance accountability, and operational exposure, then designs a risk-based remediation and assurance program.
@@ -72,7 +72,7 @@ Suspend unauthorized use and expansion in coordination with legal and IT, preser
 Zero unauthorized installations, overdue critical remediation items and unapproved exceptions; 100% licensing compliance, inventory coverage, offboarding completion, IP training completion and critical control testing pass rate. These are targets, not measured results.
 
 ## Portfolio workstreams
-The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. The integrated Phase 2 workbook is published below. Control testing and the standalone executive dashboard remain planned.
+The scenario assessment and initial control designs are documented below. Ten proposed governance policies and a master policy register are published. The integrated Phase 2 workbook is published below. The Phase 3 simulated audit is published below. Authorized lab testing and the standalone executive dashboard remain planned.
 
 ### Assessment documents
 - [Stakeholder and accountability assessment](01-project-governance/stakeholder-accountability.md)
@@ -91,6 +91,13 @@ The scenario assessment and initial control designs are documented below. Ten pr
 
 Inherent ratings and schedules are illustrative. Residual ratings await evidence-backed review. Control implementation, operating effectiveness, and framework mappings remain unverified. The audit findings register contains scenario observations and test hypotheses for Phase 3.
 
+### Phase 3 · Control testing and audit assurance
+
+- [Audit assurance report](07-audit-and-assurance/cierra-jennings-phase-3-audit-assurance.md)
+- [Control testing workbook](07-audit-and-assurance/cierra-jennings-phase-3-control-testing.xlsx)
+
+The exercise evaluated 14 synthetic records across seven proposed controls and documented five illustrative findings. Organizational evidence collection, authorized lab testing and remediation validation remain pending.
+
 ### Remaining deliverables
 
 | Workstream | Planned deliverables |
@@ -101,7 +108,7 @@ Inherent ratings and schedules are illustrative. Residual ratings await evidence
 | 04 Compliance | Confirm applicability, validate framework alignment, and assess gaps through testing |
 | 05 Policies and controls | Ten proposed policy drafts published; detailed incident response playbook and assurance pending |
 | 06 Remediation | Implementation, acceptance evidence, and closure |
-| 07 Audit and assurance | Control testing workbook, audit assessment |
+| 07 Audit and assurance | Authorized lab testing, evidence collection, and independent remediation validation |
 | 08 Executive reporting | Dashboard, executive summary, briefing |
 | 09 Project closure | Lessons learned |
 
