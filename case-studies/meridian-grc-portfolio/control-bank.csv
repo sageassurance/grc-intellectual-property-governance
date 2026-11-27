@@ -1,0 +1,8 @@
+"Control ID","Topic","Owner","Exercise criteria","Assessment method","Evidence reference"
+"AC-2","Account management","Identity Security","Remove or disable access promptly after separation under Meridian’s proposed effective-separation criterion.","Examine; interview proposed; test pending","E-01, E-02"
+"AC-17","Remote access","Network Security","Restrict and review authorized remote access; remove access when authorization ends.","Examine; test pending","E-01"
+"SI-2","Flaw remediation","Platform Security","Identify and correct flaws within approved risk-based timelines and verify fixes.","Examine; test pending","E-03, E-04"
+"RA-5","Vulnerability monitoring","Vulnerability Management","Scan on a defined cadence and track findings, ownership and disposition.","Examine; test pending","E-03, E-04"
+"SR-6","Supplier assessments","Procurement","Assess suppliers and review scoped assurance evidence on a defined cadence.","Examine; interview proposed","E-05, E-06"
+"SA-9","External system services","Procurement","Define and monitor security requirements for external services.","Examine","E-05"
+"AC-6","Least privilege","Product Security","Restrict supplier privileges to the minimum scope and duration required.","Examine; test pending","E-06"

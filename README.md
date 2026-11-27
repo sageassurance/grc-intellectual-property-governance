@@ -136,5 +136,7 @@ GRC analysis, enterprise risk assessment, compliance mapping, control design and
 
 [Harborline Public Services](case-studies/harborline-public-services/README.md) is a fictional municipal casework provider. The project covers security policy development, ISO/IEC 27001 Annex A gap analysis, NIST RMF risk assessment, third-party risk scoring, and a security awareness exercise.
 
+[Meridian GRC Project Portfolio](case-studies/meridian-grc-portfolio/README.md) follows a fictional logistics company through offboarding, vulnerability remediation, vendor assurance, and audit readiness. It includes importable CSVs for risk, controls, corrective actions, and vendor documentation.
+
 ## Future extension
 A separate AI governance simulation may evaluate proprietary source-code exposure through external generative AI services using NIST AI RMF and ISO/IEC 42001. This is outside the original incident scope.
