@@ -8,6 +8,7 @@ Alderline Civic Systems is a fictional govtech provider operating a municipal pe
 |---|---|
 | [Cybersecurity GRC workbook](alderline-govtech-cybersecurity-grc.xlsx) | Four vendor reviews, six selected NIST CSF 2.0 current-to-target assessments, five corrective actions, and a policy rollout tracker |
 | [Third-Party Data Protection Policy](alderline-third-party-data-protection-policy.md) | Plain-language requirements for vendor approval, monitoring, incident reporting, exceptions and offboarding |
+| [Vendor incident response tabletop](alderline-vendor-incident-tabletop.md) | Scenario decisions, scripted timing checks, a failed backup escalation, and the independent retest plan for F-02 |
 
 Start with **Start Here** in the workbook. Follow vendor, evidence and finding IDs across the tabs to see how each issue becomes a corrective action with an owner, deadline and independent verification criteria.
 
