@@ -4,6 +4,10 @@
 
 **Status:** Five-phase educational portfolio complete; organizational implementation, lab testing, and remediation validation pending | **Type:** Independent simulated enterprise GRC engagement | **Role:** GRC Program Manager (simulated)
 
+## Cybersecurity focus
+
+This project examines how an organization could protect proprietary source code, prevent unauthorized software deployment, and detect or escalate control failures. The assessment links preventive controls such as least privilege and software approval to detective controls such as logging and inventory reconciliation. It also defines the evidence an independent reviewer would need to test those controls and verify remediation.
+
 ## Executive summary
 An employee adapts and installs proprietary customer-service software from a former employer without authorization. Management proposes wider deployment and rejects negotiating with the original owner. This project evaluates copyright, software licensing, insider risk, governance accountability, and operational exposure, then designs a risk-based remediation and assurance program.
 
