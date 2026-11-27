@@ -130,5 +130,9 @@ The dashboard is a point-in-time snapshot of the Phase 2 risk assessment and Pha
 ## Professional competencies
 GRC analysis, enterprise risk assessment, compliance mapping, control design and testing, incident governance, cross-functional accountability, remediation planning and executive reporting.
 
+## Additional cybersecurity case study
+
+[Alderline Civic Systems](case-studies/alderline-civic-systems/README.md) is a fictional govtech provider that runs a municipal permit portal. The case study links vendor data protection, selected NIST CSF 2.0 gaps, a policy approval workflow, and corrective actions with independent retest criteria.
+
 ## Future extension
 A separate AI governance simulation may evaluate proprietary source-code exposure through external generative AI services using NIST AI RMF and ISO/IEC 42001. This is outside the original incident scope.
